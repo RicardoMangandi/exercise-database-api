@@ -20,7 +20,7 @@ app.get("/exercises", (req,res) => {
 })
 
 
-app.listen(port, ()=> {
+app.listen(process.env.PORT || 3000,function() {
 
         console.log('Example app is listening on port http://localhost:%s', port)
 })
