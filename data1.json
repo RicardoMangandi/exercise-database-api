@@ -1,0 +1,5395 @@
+{
+    "exercises": [
+    
+    {
+    "id": 1,
+    "name": "ab crunch machine",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 2,
+    "name": "ab roller",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 3,
+    "name": "adductor",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 4,
+    "name": "adductor/groin",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 5,
+    "name": "advanced kettlebell windmill",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 6,
+    "name": "air bike",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 7,
+    "name": "all fours quad stretch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 8,
+    "name": "alternate hammer curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 9,
+    "name": "alternate heel touchers",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 10,
+    "name": "alternate incline dumbbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 11,
+    "name": "alternate leg diagonal bound",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 12,
+    "name": "alternating cable shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 13,
+    "name": "alternating deltoid raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 14,
+    "name": "alternating floor press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 15,
+    "name": "alternating hang clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 16,
+    "name": "alternating kettlebell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 17,
+    "name": "alternating kettlebell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 18,
+    "name": "alternating renegade row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 19,
+    "name": "ankle circles",
+    "target": "calves"
+    },
+    
+    {
+    "id": 20,
+    "name": "ankle on the knee",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 21,
+    "name": "anterior tibialis-smr",
+    "target": "calves"
+    },
+    
+    {
+    "id": 22,
+    "name": "anti-gravity press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 23,
+    "name": "arm circles",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 24,
+    "name": "arnold dumbbell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 25,
+    "name": "around the worlds",
+    "target": "chest"
+    },
+    
+    {
+    "id": 26,
+    "name": "atlas stone trainer",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 27,
+    "name": "atlas stones",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 28,
+    "name": "axle deadlift",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 29,
+    "name": "ab crunch machine",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 30,
+    "name": "ab roller",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 31,
+    "name": "adductor",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 32,
+    "name": "adductor/groin",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 33,
+    "name": "advanced kettlebell windmill",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 34,
+    "name": "air bike",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 35,
+    "name": "all fours quad stretch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 36,
+    "name": "alternate hammer curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 37,
+    "name": "alternate heel touchers",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 38,
+    "name": "alternate incline dumbbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 39,
+    "name": "alternate leg diagonal bound",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 40,
+    "name": "alternating cable shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 41,
+    "name": "alternating deltoid raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 42,
+    "name": "alternating floor press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 43,
+    "name": "alternating hang clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 44,
+    "name": "alternating kettlebell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 45,
+    "name": "alternating kettlebell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 46,
+    "name": "alternating renegade row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 47,
+    "name": "ankle circles",
+    "target": "calves"
+    },
+    
+    {
+    "id": 48,
+    "name": "ankle on the knee",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 49,
+    "name": "anterior tibialis-smr",
+    "target": "calves"
+    },
+    
+    {
+    "id": 50,
+    "name": "anti-gravity press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 51,
+    "name": "arm circles",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 52,
+    "name": "arnold dumbbell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 53,
+    "name": "around the worlds",
+    "target": "chest"
+    },
+    
+    {
+    "id": 54,
+    "name": "atlas stone trainer",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 55,
+    "name": "atlas stones",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 56,
+    "name": "axle deadlift",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 57,
+    "name": "back flyes - with bands",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 58,
+    "name": "backward drag",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 59,
+    "name": "backward medicine ball throw",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 60,
+    "name": "balance board",
+    "target": "calves"
+    },
+    
+    {
+    "id": 61,
+    "name": "ball leg curl",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 62,
+    "name": "band assisted pull-up",
+    "target": "lats"
+    },
+    
+    {
+    "id": 63,
+    "name": "band good morning",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 64,
+    "name": "band good morning (pull through)",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 65,
+    "name": "band hip adductions",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 66,
+    "name": "band pull apart",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 67,
+    "name": "band skull crusher",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 68,
+    "name": "barbell ab rollout",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 69,
+    "name": "barbell ab rollout - on knees",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 70,
+    "name": "barbell bench press - medium grip",
+    "target": "chest"
+    },
+    
+    {
+    "id": 71,
+    "name": "barbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 72,
+    "name": "barbell curls lying against an incline",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 73,
+    "name": "barbell deadlift",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 74,
+    "name": "barbell full squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 75,
+    "name": "barbell glute bridge",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 76,
+    "name": "barbell guillotine bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 77,
+    "name": "barbell hack squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 78,
+    "name": "barbell hip thrust",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 79,
+    "name": "barbell incline bench press - medium grip",
+    "target": "chest"
+    },
+    
+    {
+    "id": 80,
+    "name": "barbell incline shoulder raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 81,
+    "name": "barbell lunge",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 82,
+    "name": "barbell rear delt row",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 83,
+    "name": "barbell rollout from bench",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 84,
+    "name": "barbell seated calf raise",
+    "target": "calves"
+    },
+    
+    {
+    "id": 85,
+    "name": "barbell shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 86,
+    "name": "barbell shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 87,
+    "name": "barbell shrug behind the back",
+    "target": "traps"
+    },
+    
+    {
+    "id": 88,
+    "name": "barbell side bend",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 89,
+    "name": "barbell side split squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 90,
+    "name": "barbell squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 91,
+    "name": "barbell squat to a bench",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 92,
+    "name": "barbell step ups",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 93,
+    "name": "barbell walking lunge",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 94,
+    "name": "battling ropes",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 95,
+    "name": "bear crawl sled drags",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 96,
+    "name": "behind head chest stretch",
+    "target": "chest"
+    },
+    
+    {
+    "id": 97,
+    "name": "bench dips",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 98,
+    "name": "bench jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 99,
+    "name": "bench press - powerlifting",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 100,
+    "name": "bench press - with bands",
+    "target": "chest"
+    },
+    
+    {
+    "id": 101,
+    "name": "bench press with chains",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 102,
+    "name": "bench sprint",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 103,
+    "name": "bent over barbell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 104,
+    "name": "bent over dumbbell rear delt raise with head on bench",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 105,
+    "name": "bent over low-pulley side lateral",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 106,
+    "name": "bent over one-arm long bar row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 107,
+    "name": "bent over two-arm long bar row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 108,
+    "name": "bent over two-dumbbell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 109,
+    "name": "bent over two-dumbbell row with palms in",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 110,
+    "name": "bent press",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 111,
+    "name": "bent-arm barbell pullover",
+    "target": "lats"
+    },
+    
+    {
+    "id": 112,
+    "name": "bent-arm dumbbell pullover",
+    "target": "chest"
+    },
+    
+    {
+    "id": 113,
+    "name": "bent-knee hip raise",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 114,
+    "name": "bicycling",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 115,
+    "name": "bicycling",
+    "target": "stationary, quadriceps"
+    },
+    
+    {
+    "id": 116,
+    "name": "board press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 117,
+    "name": "body tricep press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 118,
+    "name": "body-up",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 119,
+    "name": "bodyweight flyes",
+    "target": "chest"
+    },
+    
+    {
+    "id": 120,
+    "name": "bodyweight mid row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 121,
+    "name": "bodyweight squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 122,
+    "name": "bodyweight walking lunge",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 123,
+    "name": "bosu ball cable crunch with side bends",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 124,
+    "name": "bottoms up",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 125,
+    "name": "bottoms-up clean from the hang position",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 126,
+    "name": "box jump (multiple response)",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 127,
+    "name": "box skip",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 128,
+    "name": "box squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 129,
+    "name": "box squat with bands",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 130,
+    "name": "box squat with chains",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 131,
+    "name": "brachialis-smr",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 132,
+    "name": "bradford/rocky presses",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 133,
+    "name": "butt lift (bridge)",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 134,
+    "name": "butt-ups",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 135,
+    "name": "butterfly",
+    "target": "chest"
+    },
+    
+    {
+    "id": 136,
+    "name": "cable chest press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 137,
+    "name": "cable crossover",
+    "target": "chest"
+    },
+    
+    {
+    "id": 138,
+    "name": "cable crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 139,
+    "name": "cable deadlifts",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 140,
+    "name": "cable hammer curls - rope attachment",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 141,
+    "name": "cable hip adduction",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 142,
+    "name": "cable incline pushdown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 143,
+    "name": "cable incline triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 144,
+    "name": "cable internal rotation",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 145,
+    "name": "cable iron cross",
+    "target": "chest"
+    },
+    
+    {
+    "id": 146,
+    "name": "cable judo flip",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 147,
+    "name": "cable lying triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 148,
+    "name": "cable one arm tricep extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 149,
+    "name": "cable preacher curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 150,
+    "name": "cable rear delt fly",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 151,
+    "name": "cable reverse crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 152,
+    "name": "cable rope overhead triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 153,
+    "name": "cable rope rear-delt rows",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 154,
+    "name": "cable russian twists",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 155,
+    "name": "cable seated crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 156,
+    "name": "cable seated lateral raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 157,
+    "name": "cable shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 158,
+    "name": "cable shrugs",
+    "target": "traps"
+    },
+    
+    {
+    "id": 159,
+    "name": "cable tuck reverse crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 160,
+    "name": "cable wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 161,
+    "name": "calf press",
+    "target": "calves"
+    },
+    
+    {
+    "id": 162,
+    "name": "calf press on the leg press machine",
+    "target": "calves"
+    },
+    
+    {
+    "id": 163,
+    "name": "calf raise on a dumbbell",
+    "target": "calves"
+    },
+    
+    {
+    "id": 164,
+    "name": "calf raises - with bands",
+    "target": "calves"
+    },
+    
+    {
+    "id": 165,
+    "name": "calf stretch elbows against wall",
+    "target": "calves"
+    },
+    
+    {
+    "id": 166,
+    "name": "calf stretch hands against wall",
+    "target": "calves"
+    },
+    
+    {
+    "id": 167,
+    "name": "calf-machine shoulder shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 168,
+    "name": "calves-smr",
+    "target": "calves"
+    },
+    
+    {
+    "id": 169,
+    "name": "car deadlift",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 170,
+    "name": "car drivers",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 171,
+    "name": "carioca quick step",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 172,
+    "name": "cat stretch",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 173,
+    "name": "catch and overhead throw",
+    "target": "lats"
+    },
+    
+    {
+    "id": 174,
+    "name": "chain handle extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 175,
+    "name": "chain press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 176,
+    "name": "chair leg extended stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 177,
+    "name": "chair lower back stretch",
+    "target": "lats"
+    },
+    
+    {
+    "id": 178,
+    "name": "chair squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 179,
+    "name": "chair upper body stretch",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 180,
+    "name": "chest and front of shoulder stretch",
+    "target": "chest"
+    },
+    
+    {
+    "id": 181,
+    "name": "chest push (multiple response)",
+    "target": "chest"
+    },
+    
+    {
+    "id": 182,
+    "name": "chest push (single response)",
+    "target": "chest"
+    },
+    
+    {
+    "id": 183,
+    "name": "chest push from 3 point stance",
+    "target": "chest"
+    },
+    
+    {
+    "id": 184,
+    "name": "chest push with run release",
+    "target": "chest"
+    },
+    
+    {
+    "id": 185,
+    "name": "chest stretch on stability ball",
+    "target": "chest"
+    },
+    
+    {
+    "id": 186,
+    "name": "child's pose",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 187,
+    "name": "chin to chest stretch",
+    "target": "neck"
+    },
+    
+    {
+    "id": 188,
+    "name": "chin-up",
+    "target": "lats"
+    },
+    
+    {
+    "id": 189,
+    "name": "circus bell",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 190,
+    "name": "clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 191,
+    "name": "clean and jerk",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 192,
+    "name": "clean and press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 193,
+    "name": "clean deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 194,
+    "name": "clean from blocks",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 195,
+    "name": "clean pull",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 196,
+    "name": "clean shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 197,
+    "name": "clock push-up",
+    "target": "chest"
+    },
+    
+    {
+    "id": 198,
+    "name": "close-grip barbell bench press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 199,
+    "name": "close-grip dumbbell press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 200,
+    "name": "close-grip ez bar curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 201,
+    "name": "close-grip ez-bar curl with band",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 202,
+    "name": "close-grip ez-bar press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 203,
+    "name": "close-grip front lat pulldown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 204,
+    "name": "close-grip push-up off of a dumbbell",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 205,
+    "name": "close-grip standing barbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 206,
+    "name": "cocoons",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 207,
+    "name": "conan's wheel",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 208,
+    "name": "concentration curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 209,
+    "name": "cross body hammer curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 210,
+    "name": "cross over - with bands",
+    "target": "chest"
+    },
+    
+    {
+    "id": 211,
+    "name": "cross-body crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 212,
+    "name": "crossover reverse lunge",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 213,
+    "name": "crucifix",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 214,
+    "name": "crunch - hands overhead",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 215,
+    "name": "crunch - legs on exercise ball",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 216,
+    "name": "crunches",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 217,
+    "name": "cuban press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 218,
+    "name": "dancer's stretch",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 219,
+    "name": "deadlift with bands",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 220,
+    "name": "deadlift with chains",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 221,
+    "name": "decline barbell bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 222,
+    "name": "decline close-grip bench to skull crusher",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 223,
+    "name": "decline crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 224,
+    "name": "decline dumbbell bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 225,
+    "name": "decline dumbbell flyes",
+    "target": "chest"
+    },
+    
+    {
+    "id": 226,
+    "name": "decline dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 227,
+    "name": "decline ez bar triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 228,
+    "name": "decline oblique crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 229,
+    "name": "decline push-up",
+    "target": "chest"
+    },
+    
+    {
+    "id": 230,
+    "name": "decline reverse crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 231,
+    "name": "decline smith press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 232,
+    "name": "deficit deadlift",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 233,
+    "name": "depth jump leap",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 234,
+    "name": "dip machine",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 235,
+    "name": "dips - chest version",
+    "target": "chest"
+    },
+    
+    {
+    "id": 236,
+    "name": "dips - triceps version",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 237,
+    "name": "donkey calf raises",
+    "target": "calves"
+    },
+    
+    {
+    "id": 238,
+    "name": "double kettlebell alternating hang clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 239,
+    "name": "double kettlebell jerk",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 240,
+    "name": "double kettlebell push press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 241,
+    "name": "double kettlebell snatch",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 242,
+    "name": "double kettlebell windmill",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 243,
+    "name": "double leg butt kick",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 244,
+    "name": "downward facing balance",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 245,
+    "name": "drag curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 246,
+    "name": "drop push",
+    "target": "chest"
+    },
+    
+    {
+    "id": 247,
+    "name": "dumbbell alternate bicep curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 248,
+    "name": "dumbbell bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 249,
+    "name": "dumbbell bench press with neutral grip",
+    "target": "chest"
+    },
+    
+    {
+    "id": 250,
+    "name": "dumbbell bicep curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 251,
+    "name": "dumbbell clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 252,
+    "name": "dumbbell floor press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 253,
+    "name": "dumbbell flyes",
+    "target": "chest"
+    },
+    
+    {
+    "id": 254,
+    "name": "dumbbell incline row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 255,
+    "name": "dumbbell incline shoulder raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 256,
+    "name": "dumbbell lunges",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 257,
+    "name": "dumbbell lying one-arm rear lateral raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 258,
+    "name": "dumbbell lying pronation",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 259,
+    "name": "dumbbell lying rear lateral raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 260,
+    "name": "dumbbell lying supination",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 261,
+    "name": "dumbbell one-arm shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 262,
+    "name": "dumbbell one-arm triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 263,
+    "name": "dumbbell one-arm upright row",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 264,
+    "name": "dumbbell prone incline curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 265,
+    "name": "dumbbell raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 266,
+    "name": "dumbbell rear lunge",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 267,
+    "name": "dumbbell scaption",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 268,
+    "name": "dumbbell seated box jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 269,
+    "name": "dumbbell seated one-leg calf raise",
+    "target": "calves"
+    },
+    
+    {
+    "id": 270,
+    "name": "dumbbell shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 271,
+    "name": "dumbbell shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 272,
+    "name": "dumbbell side bend",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 273,
+    "name": "dumbbell squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 274,
+    "name": "dumbbell squat to a bench",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 275,
+    "name": "dumbbell step ups",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 276,
+    "name": "dumbbell tricep extension -pronated grip",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 277,
+    "name": "dynamic back stretch",
+    "target": "lats"
+    },
+    
+    {
+    "id": 278,
+    "name": "dynamic chest stretch",
+    "target": "chest"
+    },
+    
+    {
+    "id": 279,
+    "name": "elbow circles",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 280,
+    "name": "elbow to knee",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 281,
+    "name": "elbows back",
+    "target": "chest"
+    },
+    
+    {
+    "id": 282,
+    "name": "elevated back lunge",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 283,
+    "name": "elevated cable rows",
+    "target": "lats"
+    },
+    
+    {
+    "id": 284,
+    "name": "elliptical trainer",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 285,
+    "name": "exercise ball crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 286,
+    "name": "exercise ball pull-in",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 287,
+    "name": "extended range one-arm kettlebell floor press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 288,
+    "name": "external rotation",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 289,
+    "name": "external rotation with band",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 290,
+    "name": "external rotation with cable",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 291,
+    "name": "ez-bar curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 292,
+    "name": "ez-bar skullcrusher",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 293,
+    "name": "face pull",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 294,
+    "name": "farmer's walk",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 295,
+    "name": "fast skipping",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 296,
+    "name": "finger curls",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 297,
+    "name": "flat bench cable flyes",
+    "target": "chest"
+    },
+    
+    {
+    "id": 298,
+    "name": "flat bench leg pull-in",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 299,
+    "name": "flat bench lying leg raise",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 300,
+    "name": "flexor incline dumbbell curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 301,
+    "name": "floor glute-ham raise",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 302,
+    "name": "floor press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 303,
+    "name": "floor press with chains",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 304,
+    "name": "flutter kicks",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 305,
+    "name": "foot-smr",
+    "target": "calves"
+    },
+    
+    {
+    "id": 306,
+    "name": "forward drag with press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 307,
+    "name": "frankenstein squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 308,
+    "name": "freehand jump squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 309,
+    "name": "frog hops",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 310,
+    "name": "frog sit-ups",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 311,
+    "name": "front barbell squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 312,
+    "name": "front barbell squat to a bench",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 313,
+    "name": "front box jump",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 314,
+    "name": "front cable raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 315,
+    "name": "front cone hops (or hurdle hops)",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 316,
+    "name": "front dumbbell raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 317,
+    "name": "front incline dumbbell raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 318,
+    "name": "front leg raises",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 319,
+    "name": "front plate raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 320,
+    "name": "front raise and pullover",
+    "target": "chest"
+    },
+    
+    {
+    "id": 321,
+    "name": "front squat (clean grip)",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 322,
+    "name": "front squats with two kettlebells",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 323,
+    "name": "front two-dumbbell raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 324,
+    "name": "full range-of-motion lat pulldown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 325,
+    "name": "gironda sternum chins",
+    "target": "lats"
+    },
+    
+    {
+    "id": 326,
+    "name": "glute ham raise",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 327,
+    "name": "glute kickback",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 328,
+    "name": "goblet squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 329,
+    "name": "good morning",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 330,
+    "name": "good morning off pins",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 331,
+    "name": "gorilla chin/crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 332,
+    "name": "groin and back stretch",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 333,
+    "name": "groiners",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 334,
+    "name": "hack squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 335,
+    "name": "hammer curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 336,
+    "name": "hammer grip incline db bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 337,
+    "name": "hamstring stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 338,
+    "name": "hamstring-smr",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 339,
+    "name": "handstand push-ups",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 340,
+    "name": "hang clean",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 341,
+    "name": "hang clean - below the knees",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 342,
+    "name": "hang snatch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 343,
+    "name": "hang snatch - below knees",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 344,
+    "name": "hanging bar good morning",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 345,
+    "name": "hanging leg raise",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 346,
+    "name": "hanging pike",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 347,
+    "name": "heaving snatch balance",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 348,
+    "name": "heavy bag thrust",
+    "target": "chest"
+    },
+    
+    {
+    "id": 349,
+    "name": "high cable curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 350,
+    "name": "hip circles (prone)",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 351,
+    "name": "hip crossover",
+    "target": "hip extension with bands, glutes"
+    },
+    
+    {
+    "id": 352,
+    "name": "hip flexion with band",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 353,
+    "name": "hip lift with band",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 354,
+    "name": "hug a ball",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 355,
+    "name": "hug knees to chest",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 356,
+    "name": "hurdle hops",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 357,
+    "name": "hyperextensions (back extensions)",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 358,
+    "name": "hyperextensions with no hyperextension bench",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 359,
+    "name": "iliotibial tract-smr",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 360,
+    "name": "incline barbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 361,
+    "name": "incline bench pull",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 362,
+    "name": "incline cable chest press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 363,
+    "name": "incline cable flye",
+    "target": "chest"
+    },
+    
+    {
+    "id": 364,
+    "name": "incline dumbbell bench with palms facing in",
+    "target": "chest"
+    },
+    
+    {
+    "id": 365,
+    "name": "incline dumbbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 366,
+    "name": "incline dumbbell flyes",
+    "target": "chest"
+    },
+    
+    {
+    "id": 367,
+    "name": "incline dumbbell flyes - with a twist",
+    "target": "chest"
+    },
+    
+    {
+    "id": 368,
+    "name": "incline dumbbell press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 369,
+    "name": "incline hammer curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 370,
+    "name": "incline inner biceps curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 371,
+    "name": "incline push-up",
+    "target": "chest"
+    },
+    
+    {
+    "id": 372,
+    "name": "incline push-up close-grip",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 373,
+    "name": "incline push-up depth jump",
+    "target": "chest"
+    },
+    
+    {
+    "id": 374,
+    "name": "incline push-up medium",
+    "target": "chest"
+    },
+    
+    {
+    "id": 375,
+    "name": "incline push-up reverse grip",
+    "target": "chest"
+    },
+    
+    {
+    "id": 376,
+    "name": "incline push-up wide",
+    "target": "chest"
+    },
+    
+    {
+    "id": 377,
+    "name": "intermediate groin stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 378,
+    "name": "intermediate hip flexor and quad stretch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 379,
+    "name": "internal rotation with band",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 380,
+    "name": "inverted row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 381,
+    "name": "inverted row with straps",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 382,
+    "name": "iron cross",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 383,
+    "name": "iron crosses (stretch)",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 384,
+    "name": "isometric chest squeezes",
+    "target": "chest"
+    },
+    
+    {
+    "id": 385,
+    "name": "isometric neck exercise - front and back",
+    "target": "neck"
+    },
+    
+    {
+    "id": 386,
+    "name": "isometric neck exercise - sides",
+    "target": "neck"
+    },
+    
+    {
+    "id": 387,
+    "name": "isometric wipers",
+    "target": "chest"
+    },
+    
+    {
+    "id": 388,
+    "name": "it band and glute stretch",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 389,
+    "name": "jackknife sit-up",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 390,
+    "name": "janda sit-up",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 391,
+    "name": "jefferson squats",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 392,
+    "name": "jerk balance",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 393,
+    "name": "jerk dip squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 394,
+    "name": "jm press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 395,
+    "name": "jogging-treadmill",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 396,
+    "name": "keg load",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 397,
+    "name": "kettlebell arnold press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 398,
+    "name": "kettlebell dead clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 399,
+    "name": "kettlebell figure 8",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 400,
+    "name": "kettlebell hang clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 401,
+    "name": "kettlebell one-legged deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 402,
+    "name": "kettlebell pass between the legs",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 403,
+    "name": "kettlebell pirate ships",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 404,
+    "name": "kettlebell pistol squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 405,
+    "name": "kettlebell seated press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 406,
+    "name": "kettlebell seesaw press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 407,
+    "name": "kettlebell sumo high pull",
+    "target": "traps"
+    },
+    
+    {
+    "id": 408,
+    "name": "kettlebell thruster",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 409,
+    "name": "kettlebell turkish get-up (lunge style)",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 410,
+    "name": "kettlebell turkish get-up (squat style)",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 411,
+    "name": "kettlebell windmill",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 412,
+    "name": "kipping muscle up",
+    "target": "lats"
+    },
+    
+    {
+    "id": 413,
+    "name": "knee across the body",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 414,
+    "name": "knee circles",
+    "target": "calves"
+    },
+    
+    {
+    "id": 415,
+    "name": "knee tuck jump",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 416,
+    "name": "knee/hip raise on parallel bars",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 417,
+    "name": "kneeling arm drill",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 418,
+    "name": "kneeling cable crunch with alternating oblique twists",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 419,
+    "name": "kneeling cable triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 420,
+    "name": "kneeling forearm stretch",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 421,
+    "name": "kneeling high pulley row",
+    "target": "lats"
+    },
+    
+    {
+    "id": 422,
+    "name": "kneeling hip flexor",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 423,
+    "name": "kneeling jump squat",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 424,
+    "name": "kneeling single-arm high pulley row",
+    "target": "lats"
+    },
+    
+    {
+    "id": 425,
+    "name": "kneeling squat",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 426,
+    "name": "landmine 180's",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 427,
+    "name": "landmine linear jammer",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 428,
+    "name": "lateral bound",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 429,
+    "name": "lateral box jump",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 430,
+    "name": "lateral cone hops",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 431,
+    "name": "lateral raise - with bands",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 432,
+    "name": "latissimus dorsi-smr",
+    "target": "lats"
+    },
+    
+    {
+    "id": 433,
+    "name": "leg extensions",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 434,
+    "name": "leg lift",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 435,
+    "name": "leg press",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 436,
+    "name": "leg pull-in",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 437,
+    "name": "leg-over floor press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 438,
+    "name": "leg-up hamstring stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 439,
+    "name": "leverage chest press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 440,
+    "name": "leverage deadlift",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 441,
+    "name": "leverage decline chest press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 442,
+    "name": "leverage high row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 443,
+    "name": "leverage incline chest press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 444,
+    "name": "leverage iso row",
+    "target": "lats"
+    },
+    
+    {
+    "id": 445,
+    "name": "leverage shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 446,
+    "name": "leverage shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 447,
+    "name": "linear 3-part start technique",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 448,
+    "name": "linear acceleration wall drill",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 449,
+    "name": "linear depth jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 450,
+    "name": "log lift",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 451,
+    "name": "london bridges",
+    "target": "lats"
+    },
+    
+    {
+    "id": 452,
+    "name": "looking at ceiling",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 453,
+    "name": "low cable crossover",
+    "target": "chest"
+    },
+    
+    {
+    "id": 454,
+    "name": "low cable triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 455,
+    "name": "low pulley row to neck",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 456,
+    "name": "lower back curl",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 457,
+    "name": "lower back-smr",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 458,
+    "name": "lunge pass through",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 459,
+    "name": "lunge sprint",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 460,
+    "name": "lying bent leg groin",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 461,
+    "name": "lying cable curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 462,
+    "name": "lying cambered barbell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 463,
+    "name": "lying close-grip bar curl on high pulley",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 464,
+    "name": "lying close-grip barbell triceps extension behind the head",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 465,
+    "name": "lying close-grip barbell triceps press to chin",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 466,
+    "name": "lying crossover",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 467,
+    "name": "lying dumbbell tricep extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 468,
+    "name": "lying face down plate neck resistance",
+    "target": "neck"
+    },
+    
+    {
+    "id": 469,
+    "name": "lying face up plate neck resistance",
+    "target": "neck"
+    },
+    
+    {
+    "id": 470,
+    "name": "lying glute",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 471,
+    "name": "lying hamstring",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 472,
+    "name": "lying high bench barbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 473,
+    "name": "lying leg curls",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 474,
+    "name": "lying machine squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 475,
+    "name": "lying one-arm lateral raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 476,
+    "name": "lying prone quadriceps",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 477,
+    "name": "lying rear delt raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 478,
+    "name": "lying supine dumbbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 479,
+    "name": "lying t-bar row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 480,
+    "name": "lying triceps press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 481,
+    "name": "machine bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 482,
+    "name": "machine bicep curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 483,
+    "name": "machine preacher curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 484,
+    "name": "machine shoulder (military) press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 485,
+    "name": "machine triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 486,
+    "name": "medicine ball chest pass",
+    "target": "chest"
+    },
+    
+    {
+    "id": 487,
+    "name": "medicine ball full twist",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 488,
+    "name": "medicine ball scoop throw",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 489,
+    "name": "middle back shrug",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 490,
+    "name": "middle back stretch",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 491,
+    "name": "mixed grip chin",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 492,
+    "name": "monster walk",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 493,
+    "name": "mountain climbers",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 494,
+    "name": "moving claw series",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 495,
+    "name": "muscle snatch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 496,
+    "name": "muscle up",
+    "target": "lats"
+    },
+    
+    {
+    "id": 497,
+    "name": "narrow stance hack squats",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 498,
+    "name": "narrow stance leg press",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 499,
+    "name": "narrow stance squats",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 500,
+    "name": "natural glute ham raise",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 501,
+    "name": "neck press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 502,
+    "name": "neck-smr",
+    "target": "neck"
+    },
+    
+    {
+    "id": 503,
+    "name": "oblique crunches",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 504,
+    "name": "oblique crunches - on the floor",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 505,
+    "name": "olympic squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 506,
+    "name": "on your side quad stretch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 507,
+    "name": "on-your-back quad stretch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 508,
+    "name": "one arm against wall",
+    "target": "lats"
+    },
+    
+    {
+    "id": 509,
+    "name": "one arm chin-up",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 510,
+    "name": "one arm dumbbell bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 511,
+    "name": "one arm dumbbell preacher curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 512,
+    "name": "one arm floor press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 513,
+    "name": "one arm lat pulldown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 514,
+    "name": "one arm pronated dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 515,
+    "name": "one arm supinated dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 516,
+    "name": "one half locust",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 517,
+    "name": "one handed hang",
+    "target": "lats"
+    },
+    
+    {
+    "id": 518,
+    "name": "one knee to chest",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 519,
+    "name": "one leg barbell squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 520,
+    "name": "one-arm dumbbell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 521,
+    "name": "one-arm flat bench dumbbell flye",
+    "target": "chest"
+    },
+    
+    {
+    "id": 522,
+    "name": "one-arm high-pulley cable side bends",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 523,
+    "name": "one-arm incline lateral raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 524,
+    "name": "one-arm kettlebell clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 525,
+    "name": "one-arm kettlebell clean and jerk",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 526,
+    "name": "one-arm kettlebell floor press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 527,
+    "name": "one-arm kettlebell jerk",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 528,
+    "name": "one-arm kettlebell military press to the side",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 529,
+    "name": "one-arm kettlebell para press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 530,
+    "name": "one-arm kettlebell push press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 531,
+    "name": "one-arm kettlebell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 532,
+    "name": "one-arm kettlebell snatch",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 533,
+    "name": "one-arm kettlebell split jerk",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 534,
+    "name": "one-arm kettlebell split snatch",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 535,
+    "name": "one-arm kettlebell swings",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 536,
+    "name": "one-arm long bar row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 537,
+    "name": "one-arm medicine ball slam",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 538,
+    "name": "one-arm open palm kettlebell clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 539,
+    "name": "one-arm overhead kettlebell squats",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 540,
+    "name": "one-arm side deadlift",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 541,
+    "name": "one-arm side laterals",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 542,
+    "name": "one-legged cable kickback",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 543,
+    "name": "open palm kettlebell clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 544,
+    "name": "otis-up",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 545,
+    "name": "overhead cable curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 546,
+    "name": "overhead lat",
+    "target": "lats"
+    },
+    
+    {
+    "id": 547,
+    "name": "overhead slam",
+    "target": "lats"
+    },
+    
+    {
+    "id": 548,
+    "name": "overhead squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 549,
+    "name": "overhead stretch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 550,
+    "name": "overhead triceps",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 551,
+    "name": "pallof press with rotation",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 552,
+    "name": "palms-down dumbbell wrist curl over a bench",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 553,
+    "name": "palms-down wrist curl over a bench",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 554,
+    "name": "palms-up barbell wrist curl over a bench",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 555,
+    "name": "palms-up dumbbell wrist curl over a bench",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 556,
+    "name": "parallel bar dip",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 557,
+    "name": "pelvic tilt into bridge",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 558,
+    "name": "peroneals stretch",
+    "target": "calves"
+    },
+    
+    {
+    "id": 559,
+    "name": "peroneals-smr",
+    "target": "calves"
+    },
+    
+    {
+    "id": 560,
+    "name": "physioball hip bridge",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 561,
+    "name": "pin presses",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 562,
+    "name": "piriformis-smr",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 563,
+    "name": "plank",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 564,
+    "name": "plank with twist",
+    "target": ""
+    },
+    
+    {
+    "id": 565,
+    "name": "plate pinch",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 566,
+    "name": "plate twist",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 567,
+    "name": "platform hamstring slides",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 568,
+    "name": "plie dumbbell squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 569,
+    "name": "plyo kettlebell pushups",
+    "target": "chest"
+    },
+    
+    {
+    "id": 570,
+    "name": "plyo push-up",
+    "target": "chest"
+    },
+    
+    {
+    "id": 571,
+    "name": "posterior tibialis stretch",
+    "target": "calves"
+    },
+    
+    {
+    "id": 572,
+    "name": "power clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 573,
+    "name": "power clean from blocks",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 574,
+    "name": "power jerk",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 575,
+    "name": "power partials",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 576,
+    "name": "power snatch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 577,
+    "name": "power snatch from blocks",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 578,
+    "name": "power stairs",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 579,
+    "name": "preacher curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 580,
+    "name": "preacher hammer dumbbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 581,
+    "name": "press sit-up",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 582,
+    "name": "prone manual hamstring",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 583,
+    "name": "prowler sprint",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 584,
+    "name": "pull through",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 585,
+    "name": "pullups",
+    "target": "lats"
+    },
+    
+    {
+    "id": 586,
+    "name": "push press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 587,
+    "name": "push press - behind the neck",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 588,
+    "name": "push up to side plank",
+    "target": "chest"
+    },
+    
+    {
+    "id": 589,
+    "name": "push-up wide",
+    "target": "chest"
+    },
+    
+    {
+    "id": 590,
+    "name": "push-ups - close triceps position",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 591,
+    "name": "push-ups with feet elevated",
+    "target": "chest"
+    },
+    
+    {
+    "id": 592,
+    "name": "push-ups with feet on an exercise ball",
+    "target": "chest"
+    },
+    
+    {
+    "id": 593,
+    "name": "pushups",
+    "target": "chest"
+    },
+    
+    {
+    "id": 594,
+    "name": "pushups (close and wide hand positions)",
+    "target": "chest"
+    },
+    
+    {
+    "id": 595,
+    "name": "pyramid",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 596,
+    "name": "quad stretch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 597,
+    "name": "quadriceps-smr",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 598,
+    "name": "quick leap",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 599,
+    "name": "rack delivery",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 600,
+    "name": "rack pull with bands",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 601,
+    "name": "rack pulls",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 602,
+    "name": "rear leg raises",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 603,
+    "name": "recumbent bike",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 604,
+    "name": "return push from stance",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 605,
+    "name": "reverse band bench press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 606,
+    "name": "reverse band box squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 607,
+    "name": "reverse band deadlift",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 608,
+    "name": "reverse band power squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 609,
+    "name": "reverse band sumo deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 610,
+    "name": "reverse barbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 611,
+    "name": "reverse barbell preacher curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 612,
+    "name": "reverse cable curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 613,
+    "name": "reverse crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 614,
+    "name": "reverse flyes",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 615,
+    "name": "reverse flyes with external rotation",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 616,
+    "name": "reverse grip bent-over rows",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 617,
+    "name": "reverse grip triceps pushdown",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 618,
+    "name": "reverse hyperextension",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 619,
+    "name": "reverse machine flyes",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 620,
+    "name": "reverse plate curls",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 621,
+    "name": "reverse triceps bench press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 622,
+    "name": "rhomboids-smr",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 623,
+    "name": "rickshaw carry",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 624,
+    "name": "rickshaw deadlift",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 625,
+    "name": "ring dips",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 626,
+    "name": "rocket jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 627,
+    "name": "rocking standing calf raise",
+    "target": "calves"
+    },
+    
+    {
+    "id": 628,
+    "name": "rocky pull-ups/pulldowns",
+    "target": "lats"
+    },
+    
+    {
+    "id": 629,
+    "name": "romanian deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 630,
+    "name": "romanian deadlift from deficit",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 631,
+    "name": "rope climb",
+    "target": "lats"
+    },
+    
+    {
+    "id": 632,
+    "name": "rope crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 633,
+    "name": "rope jumping",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 634,
+    "name": "rope straight-arm pulldown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 635,
+    "name": "round the world shoulder stretch",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 636,
+    "name": "rowing",
+    "target": "stationary, quadriceps"
+    },
+    
+    {
+    "id": 637,
+    "name": "runner's stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 638,
+    "name": "running",
+    "target": "treadmill, quadriceps"
+    },
+    
+    {
+    "id": 639,
+    "name": "russian twist",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 640,
+    "name": "sandbag load",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 641,
+    "name": "scapular pull-up",
+    "target": "traps"
+    },
+    
+    {
+    "id": 642,
+    "name": "scissor kick",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 643,
+    "name": "scissors jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 644,
+    "name": "seated band hamstring curl",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 645,
+    "name": "seated barbell military press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 646,
+    "name": "seated barbell twist",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 647,
+    "name": "seated bent-over one-arm dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 648,
+    "name": "seated bent-over rear delt raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 649,
+    "name": "seated bent-over two-arm dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 650,
+    "name": "seated biceps",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 651,
+    "name": "seated cable rows",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 652,
+    "name": "seated cable shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 653,
+    "name": "seated calf raise",
+    "target": "calves"
+    },
+    
+    {
+    "id": 654,
+    "name": "seated calf stretch",
+    "target": "calves"
+    },
+    
+    {
+    "id": 655,
+    "name": "seated close-grip concentration barbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 656,
+    "name": "seated dumbbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 657,
+    "name": "seated dumbbell inner biceps curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 658,
+    "name": "seated dumbbell palms-down wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 659,
+    "name": "seated dumbbell palms-up wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 660,
+    "name": "seated dumbbell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 661,
+    "name": "seated flat bench leg pull-in",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 662,
+    "name": "seated floor hamstring stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 663,
+    "name": "seated front deltoid",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 664,
+    "name": "seated glute",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 665,
+    "name": "seated good mornings",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 666,
+    "name": "seated hamstring",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 667,
+    "name": "seated hamstring and calf stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 668,
+    "name": "seated head harness neck resistance",
+    "target": "neck"
+    },
+    
+    {
+    "id": 669,
+    "name": "seated leg curl",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 670,
+    "name": "seated leg tucks",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 671,
+    "name": "seated one-arm cable pulley rows",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 672,
+    "name": "seated one-arm dumbbell palms-down wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 673,
+    "name": "seated one-arm dumbbell palms-up wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 674,
+    "name": "seated overhead stretch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 675,
+    "name": "seated palm-up barbell wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 676,
+    "name": "seated palms-down barbell wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 677,
+    "name": "seated side lateral raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 678,
+    "name": "seated triceps press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 679,
+    "name": "seated two-arm palms-up low-pulley wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 680,
+    "name": "see-saw press (alternating side press)",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 681,
+    "name": "shotgun row",
+    "target": "lats"
+    },
+    
+    {
+    "id": 682,
+    "name": "shoulder circles",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 683,
+    "name": "shoulder press - with bands",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 684,
+    "name": "shoulder raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 685,
+    "name": "shoulder stretch",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 686,
+    "name": "side bridge",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 687,
+    "name": "side hop-sprint",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 688,
+    "name": "side jackknife",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 689,
+    "name": "side lateral raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 690,
+    "name": "side laterals to front raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 691,
+    "name": "side leg raises",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 692,
+    "name": "side lying groin stretch",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 693,
+    "name": "side neck stretch",
+    "target": "neck"
+    },
+    
+    {
+    "id": 694,
+    "name": "side standing long jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 695,
+    "name": "side to side box shuffle",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 696,
+    "name": "side to side chins",
+    "target": "lats"
+    },
+    
+    {
+    "id": 697,
+    "name": "side wrist pull",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 698,
+    "name": "side-lying floor stretch",
+    "target": "lats"
+    },
+    
+    {
+    "id": 699,
+    "name": "single dumbbell raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 700,
+    "name": "single leg butt kick",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 701,
+    "name": "single leg glute bridge",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 702,
+    "name": "single leg push-off",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 703,
+    "name": "single-arm cable crossover",
+    "target": "chest"
+    },
+    
+    {
+    "id": 704,
+    "name": "single-arm linear jammer",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 705,
+    "name": "single-arm push-up",
+    "target": "chest"
+    },
+    
+    {
+    "id": 706,
+    "name": "single-cone sprint drill",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 707,
+    "name": "single-leg high box squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 708,
+    "name": "single-leg hop progression",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 709,
+    "name": "single-leg lateral hop",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 710,
+    "name": "single-leg leg extension",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 711,
+    "name": "single-leg stride jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 712,
+    "name": "sit squats",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 713,
+    "name": "sit-up",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 714,
+    "name": "skating",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 715,
+    "name": "sled drag - harness",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 716,
+    "name": "sled overhead backward walk",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 717,
+    "name": "sled overhead triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 718,
+    "name": "sled push",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 719,
+    "name": "sled reverse flye",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 720,
+    "name": "sled row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 721,
+    "name": "sledgehammer swings",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 722,
+    "name": "smith incline shoulder raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 723,
+    "name": "smith machine behind the back shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 724,
+    "name": "smith machine bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 725,
+    "name": "smith machine bent over row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 726,
+    "name": "smith machine calf raise",
+    "target": "calves"
+    },
+    
+    {
+    "id": 727,
+    "name": "smith machine close-grip bench press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 728,
+    "name": "smith machine decline press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 729,
+    "name": "smith machine hang power clean",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 730,
+    "name": "smith machine hip raise",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 731,
+    "name": "smith machine incline bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 732,
+    "name": "smith machine leg press",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 733,
+    "name": "smith machine one-arm upright row",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 734,
+    "name": "smith machine overhead shoulder press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 735,
+    "name": "smith machine pistol squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 736,
+    "name": "smith machine reverse calf raises",
+    "target": "calves"
+    },
+    
+    {
+    "id": 737,
+    "name": "smith machine shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 738,
+    "name": "smith machine squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 739,
+    "name": "smith machine stiff-legged deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 740,
+    "name": "smith machine upright row",
+    "target": "traps"
+    },
+    
+    {
+    "id": 741,
+    "name": "smith single-leg split squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 742,
+    "name": "snatch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 743,
+    "name": "snatch balance",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 744,
+    "name": "snatch deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 745,
+    "name": "snatch from blocks",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 746,
+    "name": "snatch pull",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 747,
+    "name": "snatch shrug",
+    "target": "traps"
+    },
+    
+    {
+    "id": 748,
+    "name": "speed band overhead triceps",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 749,
+    "name": "speed band pushdown",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 750,
+    "name": "speed box squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 751,
+    "name": "speed squats",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 752,
+    "name": "spell caster",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 753,
+    "name": "spider crawl",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 754,
+    "name": "spider curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 755,
+    "name": "spinal stretch",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 756,
+    "name": "split clean",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 757,
+    "name": "split jerk",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 758,
+    "name": "split jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 759,
+    "name": "split snatch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 760,
+    "name": "split squat with dumbbells",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 761,
+    "name": "split squats",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 762,
+    "name": "squat jerk",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 763,
+    "name": "squat with bands",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 764,
+    "name": "squat with chains",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 765,
+    "name": "squat with plate movers",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 766,
+    "name": "squats - with bands",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 767,
+    "name": "stairmaster",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 768,
+    "name": "standing alternating dumbbell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 769,
+    "name": "standing barbell calf raise",
+    "target": "calves"
+    },
+    
+    {
+    "id": 770,
+    "name": "standing barbell press behind neck",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 771,
+    "name": "standing bent-over one-arm dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 772,
+    "name": "standing bent-over two-arm dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 773,
+    "name": "standing biceps cable curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 774,
+    "name": "standing biceps stretch",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 775,
+    "name": "standing bradford press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 776,
+    "name": "standing cable chest press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 777,
+    "name": "standing cable lift",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 778,
+    "name": "standing cable wood chop",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 779,
+    "name": "standing calf raises",
+    "target": "calves"
+    },
+    
+    {
+    "id": 780,
+    "name": "standing concentration curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 781,
+    "name": "standing dumbbell calf raise",
+    "target": "calves"
+    },
+    
+    {
+    "id": 782,
+    "name": "standing dumbbell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 783,
+    "name": "standing dumbbell reverse curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 784,
+    "name": "standing dumbbell straight-arm front delt raise above head",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 785,
+    "name": "standing dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 786,
+    "name": "standing dumbbell upright row",
+    "target": "traps"
+    },
+    
+    {
+    "id": 787,
+    "name": "standing elevated quad stretch",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 788,
+    "name": "standing front barbell raise over head",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 789,
+    "name": "standing gastrocnemius calf stretch",
+    "target": "calves"
+    },
+    
+    {
+    "id": 790,
+    "name": "standing hamstring and calf stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 791,
+    "name": "standing hip circles",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 792,
+    "name": "standing hip flexors",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 793,
+    "name": "standing inner-biceps curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 794,
+    "name": "standing lateral stretch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 795,
+    "name": "standing leg curl",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 796,
+    "name": "standing long jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 797,
+    "name": "standing low-pulley deltoid raise",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 798,
+    "name": "standing low-pulley one-arm triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 799,
+    "name": "standing military press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 800,
+    "name": "standing olympic plate hand squeeze",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 801,
+    "name": "standing one-arm cable curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 802,
+    "name": "standing one-arm dumbbell curl over incline bench",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 803,
+    "name": "standing one-arm dumbbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 804,
+    "name": "standing overhead barbell triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 805,
+    "name": "standing palm-in one-arm dumbbell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 806,
+    "name": "standing palms-in dumbbell press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 807,
+    "name": "standing palms-up barbell behind the back wrist curl",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 808,
+    "name": "standing pelvic tilt",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 809,
+    "name": "standing rope crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 810,
+    "name": "standing soleus and achilles stretch",
+    "target": "calves"
+    },
+    
+    {
+    "id": 811,
+    "name": "standing toe touches",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 812,
+    "name": "standing towel triceps extension",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 813,
+    "name": "standing two-arm overhead throw",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 814,
+    "name": "star jump",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 815,
+    "name": "step mill",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 816,
+    "name": "step-up with knee raise",
+    "target": "glutes"
+    },
+    
+    {
+    "id": 817,
+    "name": "stiff leg barbell good morning",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 818,
+    "name": "stiff-legged barbell deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 819,
+    "name": "stiff-legged dumbbell deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 820,
+    "name": "stomach vacuum",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 821,
+    "name": "straight bar bench mid rows",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 822,
+    "name": "straight raises on incline bench",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 823,
+    "name": "straight-arm dumbbell pullover",
+    "target": "chest"
+    },
+    
+    {
+    "id": 824,
+    "name": "straight-arm pulldown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 825,
+    "name": "stride jump crossover",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 826,
+    "name": "sumo deadlift",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 827,
+    "name": "sumo deadlift with bands",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 828,
+    "name": "sumo deadlift with chains",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 829,
+    "name": "superman",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 830,
+    "name": "supine chest throw",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 831,
+    "name": "supine one-arm overhead throw",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 832,
+    "name": "supine two-arm overhead throw",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 833,
+    "name": "suspended push-up",
+    "target": "chest"
+    },
+    
+    {
+    "id": 834,
+    "name": "suspended reverse crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 835,
+    "name": "suspended row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 836,
+    "name": "suspended split squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 837,
+    "name": "t-bar row with handle",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 838,
+    "name": "tate press",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 839,
+    "name": "the straddle",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 840,
+    "name": "thigh abductor",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 841,
+    "name": "thigh adductor",
+    "target": "adductors"
+    },
+    
+    {
+    "id": 842,
+    "name": "tire flip",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 843,
+    "name": "toe touchers",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 844,
+    "name": "torso rotation",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 845,
+    "name": "trail running/walking",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 846,
+    "name": "trap bar deadlift",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 847,
+    "name": "tricep dumbbell kickback",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 848,
+    "name": "tricep side stretch",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 849,
+    "name": "triceps overhead extension with rope",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 850,
+    "name": "triceps pushdown",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 851,
+    "name": "triceps pushdown - rope attachment",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 852,
+    "name": "triceps pushdown - v-bar attachment",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 853,
+    "name": "triceps stretch",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 854,
+    "name": "tuck crunch",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 855,
+    "name": "two-arm dumbbell preacher curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 856,
+    "name": "two-arm kettlebell clean",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 857,
+    "name": "two-arm kettlebell jerk",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 858,
+    "name": "two-arm kettlebell military press",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 859,
+    "name": "two-arm kettlebell row",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 860,
+    "name": "underhand cable pulldowns",
+    "target": "lats"
+    },
+    
+    {
+    "id": 861,
+    "name": "upper back stretch",
+    "target": "middle back"
+    },
+    
+    {
+    "id": 862,
+    "name": "upper back-leg grab",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 863,
+    "name": "upright barbell row",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 864,
+    "name": "upright cable row",
+    "target": "traps"
+    },
+    
+    {
+    "id": 865,
+    "name": "upright row - with bands",
+    "target": "traps"
+    },
+    
+    {
+    "id": 866,
+    "name": "upward stretch",
+    "target": "shoulders"
+    },
+    
+    {
+    "id": 867,
+    "name": "v-bar pulldown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 868,
+    "name": "v-bar pullup",
+    "target": "lats"
+    },
+    
+    {
+    "id": 869,
+    "name": "vertical swing",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 870,
+    "name": "walking",
+    "target": "treadmill, quadriceps"
+    },
+    
+    {
+    "id": 871,
+    "name": "weighted ball hyperextension",
+    "target": "lower back"
+    },
+    
+    {
+    "id": 872,
+    "name": "weighted ball side bend",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 873,
+    "name": "weighted bench dip",
+    "target": "triceps"
+    },
+    
+    {
+    "id": 874,
+    "name": "weighted crunches",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 875,
+    "name": "weighted jump squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 876,
+    "name": "weighted pull ups",
+    "target": "lats"
+    },
+    
+    {
+    "id": 877,
+    "name": "weighted sissy squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 878,
+    "name": "weighted sit-ups - with bands",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 879,
+    "name": "weighted squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 880,
+    "name": "wide stance barbell squat",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 881,
+    "name": "wide stance stiff legs",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 882,
+    "name": "wide-grip barbell bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 883,
+    "name": "wide-grip decline barbell bench press",
+    "target": "chest"
+    },
+    
+    {
+    "id": 884,
+    "name": "wide-grip decline barbell pullover",
+    "target": "chest"
+    },
+    
+    {
+    "id": 885,
+    "name": "wide-grip lat pulldown",
+    "target": "lats"
+    },
+    
+    {
+    "id": 886,
+    "name": "wide-grip pulldown behind the neck",
+    "target": "lats"
+    },
+    
+    {
+    "id": 887,
+    "name": "wide-grip rear pull-up",
+    "target": "lats"
+    },
+    
+    {
+    "id": 888,
+    "name": "wide-grip standing barbell curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 889,
+    "name": "wind sprints",
+    "target": "abdominals"
+    },
+    
+    {
+    "id": 890,
+    "name": "windmills",
+    "target": "abductors"
+    },
+    
+    {
+    "id": 891,
+    "name": "world's greatest stretch",
+    "target": "hamstrings"
+    },
+    
+    {
+    "id": 892,
+    "name": "wrist circles",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 893,
+    "name": "wrist roller",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 894,
+    "name": "wrist rotations with straight bar",
+    "target": "forearms"
+    },
+    
+    {
+    "id": 895,
+    "name": "yoke walk",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 896,
+    "name": "zercher squats",
+    "target": "quadriceps"
+    },
+    
+    {
+    "id": 897,
+    "name": "zottman curl",
+    "target": "biceps"
+    },
+    
+    {
+    "id": 898,
+    "name": "zottman preacher curl",
+    "target": "biceps"
+    }
+
+        ]
+
+    }
+    
