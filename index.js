@@ -2,7 +2,7 @@ const express = require("express")
 
 const app = express()
 
-const importData = require("./data.json")
+const importData = require("./data1.json")
 
 let port = process.env.PORT || 3000
 
